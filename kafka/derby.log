@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 25 14:41:58 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0183-75f4-c1e7-0000075b8930 
+on database directory /home/emad/hive/metastore_db with class loader sun.misc.Launcher$AppClassLoader@7dc36524 
+Loaded from file:/home/emad/hive/lib/derby-10.10.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_342-8u342-b07-0ubuntu1~20.04-b07
+user.dir=/home/emad/kafka
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
